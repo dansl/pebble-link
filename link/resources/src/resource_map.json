@@ -1,0 +1,36 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+	    "type":"raw",
+	    "defName":"DUMMY",
+	    "file":"resource_map.json"
+	   },
+
+	   {
+	   	"type":"png",
+	   	"defName": "IMAGE_MENU_ICON",
+	   	"file":"images/icon.png"
+	   },
+
+	   {
+	   	"type":"png",
+	   	"defName":"IMAGE_BACKGROUND",
+	   	"file":"images/background.png"
+	   },
+
+	   {
+	   	"type":"font",
+	   	"defName":"FONT_PIXEL_36",
+	   	"characterRegex":"[:0-9APM]",
+	   	"file":"fonts/00TT.TTF"
+	   },
+
+	   {
+	   	"type":"font",
+	   	"defName":"FONT_PIXEL_18",
+	   	"file":"fonts/00TT.TTF"
+	   }
+	  ]
+}
